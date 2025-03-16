@@ -1,0 +1,14 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
+
+# .terraform directory (Terraform cache & modules)
+.terraform/
+.terraform.lock.hcl
+
+dovekey
+dovekey.pub
+.DS_Store
+.DS_Store
